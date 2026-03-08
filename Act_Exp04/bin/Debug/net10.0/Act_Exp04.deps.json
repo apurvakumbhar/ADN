@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Act_Exp04/1.0.0": {
+        "runtime": {
+          "Act_Exp04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Act_Exp04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

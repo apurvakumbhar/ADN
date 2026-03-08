@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Act_Exp05\bin\Debug\net10.0\Act_Exp05.exe
+C:\Users\Admin\source\repos\Act_Exp05\bin\Debug\net10.0\Act_Exp05.deps.json
+C:\Users\Admin\source\repos\Act_Exp05\bin\Debug\net10.0\Act_Exp05.runtimeconfig.json
+C:\Users\Admin\source\repos\Act_Exp05\bin\Debug\net10.0\Act_Exp05.dll
+C:\Users\Admin\source\repos\Act_Exp05\bin\Debug\net10.0\Act_Exp05.pdb
+C:\Users\Admin\source\repos\Act_Exp05\obj\Debug\net10.0\Act_Exp05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Act_Exp05\obj\Debug\net10.0\Act_Exp05.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Act_Exp05\obj\Debug\net10.0\Act_Exp05.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Act_Exp05\obj\Debug\net10.0\Act_Exp05.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Act_Exp05\obj\Debug\net10.0\Act_Exp05.dll
+C:\Users\Admin\source\repos\Act_Exp05\obj\Debug\net10.0\refint\Act_Exp05.dll
+C:\Users\Admin\source\repos\Act_Exp05\obj\Debug\net10.0\Act_Exp05.pdb
+C:\Users\Admin\source\repos\Act_Exp05\obj\Debug\net10.0\Act_Exp05.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Act_Exp05\obj\Debug\net10.0\ref\Act_Exp05.dll

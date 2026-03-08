@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Act_Exp04": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Experiment05\bin\Debug\net10.0\Experiment05.exe
+C:\Users\Admin\source\repos\Experiment05\bin\Debug\net10.0\Experiment05.deps.json
+C:\Users\Admin\source\repos\Experiment05\bin\Debug\net10.0\Experiment05.runtimeconfig.json
+C:\Users\Admin\source\repos\Experiment05\bin\Debug\net10.0\Experiment05.dll
+C:\Users\Admin\source\repos\Experiment05\bin\Debug\net10.0\Experiment05.pdb
+C:\Users\Admin\source\repos\Experiment05\obj\Debug\net10.0\Experiment05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Experiment05\obj\Debug\net10.0\Experiment05.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Experiment05\obj\Debug\net10.0\Experiment05.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Experiment05\obj\Debug\net10.0\Experiment05.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Experiment05\obj\Debug\net10.0\Experiment05.dll
+C:\Users\Admin\source\repos\Experiment05\obj\Debug\net10.0\refint\Experiment05.dll
+C:\Users\Admin\source\repos\Experiment05\obj\Debug\net10.0\Experiment05.pdb
+C:\Users\Admin\source\repos\Experiment05\obj\Debug\net10.0\Experiment05.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Experiment05\obj\Debug\net10.0\ref\Experiment05.dll
